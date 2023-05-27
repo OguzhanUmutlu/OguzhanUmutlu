@@ -1,49 +1,74 @@
-# Hello there, I'm Oğuzhan 👋
+<h1 align="center">Hi, guys! <img src="https://github.com/OguzhanUmutlu/OguzhanUmutlu/imgs/hand.gif" width="28px" alt="👋"></h1>
 
-## I'm a student and a developer!
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Oğuzhan.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://leetcode.com/OguzhanUmutlu">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+</p>
 
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate with other developers
-- 🥅 Things I will make in 2023: QuizMile 👀
-- ⚡ Fun fact: I love to play piano
+### Languages
 
-### Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/OguzhanUmutlu)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/OguzhanUmutlu)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/OguzhanUmutlu)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/OguzhanUmutlu)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=Rust)](https://github.com/OguzhanUmutlu)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/OguzhanUmutlu)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/OguzhanUmutlu)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/OguzhanUmutlu)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/OguzhanUmutlu)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/OguzhanUmutlu)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/OguzhanUmutlu)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/OguzhanUmutlu)
 
-<img src="./imgs/intellij.png" width="26px" title="Intellij Ultimate"> <img src="./imgs/cs.png" width="26px" title="C#">
-<img src="./imgs/rust.png" width="26px" title="Rust">
-<img src="./imgs/java.png" width="26px" title="Java">
-<img src="./imgs/javafx.png" width="26px" title="JavaFX">
-<img src="./imgs/php.png" width="26px" title="PhP">
-<img src="./imgs/javascript.png" width="26px" title="JavaScript">
-<img src="./imgs/python.png" width="26px" title="Python">
-<img src="./imgs/nodejs.png" width="26px" title="Node.js">
-<img src="./imgs/html.png" width="26px" title="HTML">
-<img src="./imgs/css.png" width="26px" title="CSS">
-<img src="./imgs/linux.png" width="26px" title="Linux Terminal">
-<img src="./imgs/unity.png" width="26px" title="Unity">
-<img src="./imgs/gamemaker.png" width="26px" title="Game Maker">
-<img src="./imgs/godot.png" width="26px" title="Godot">
-<img src="./imgs/git.png" width="26px" title="Git">
-<img src="./imgs/github.png" width="26px" title="Github">
-<a href="https://github.com/LightGameEngine/LightGameEngine"><img src="./imgs/light.png" width="26px" title="Light Game Engine"></a>
-<img src="./imgs/threejs.png" width="26px" title="Three.js">
-<img src="./imgs/electron.png" width="26px" title="Electron">
-<img src="./imgs/matterjs.png" width="26px" title="Matter.js">
-<img src="./imgs/p5js.png" width="26px" title="P5.js">
-<img src="./imgs/sqlite.png" width="26px" title="Sqlite">
-<img src="./imgs/mysql.png" width="26px" title="MySQL">
-<br><br>
-<img align="left" alt="OguzhanUmutlu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OguzhanUmutlu&show_icons=true&icon_color=FFE400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+### Technologies & Frameworks
 
-### *A fool is known by his speech; and a wise man by silence.*
-\- Pythagoras
+[![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)](https://github.com/OguzhanUmutlu)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/OguzhanUmutlu)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/OguzhanUmutlu)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/OguzhanUmutlu)
+[![p5.js](https://img.shields.io/badge/p5.js-black?style=for-the-badge&logo=p5.js)](https://github.com/OguzhanUmutlu)
+[![matter.js](https://img.shields.io/badge/matter.js-black?style=for-the-badge&logo=matter.js)](https://github.com/OguzhanUmutlu)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OguzhanUmutlu&theme=tokyonight_duo&border_radius=10"></p>
+### OS
 
-<!-- old :p Silence is better than unmeaning words. - Pythagoras -->
+[![CentOS](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=Centos)](https://github.com/OguzhanUmutlu)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)](https://github.com/OguzhanUmutlu)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/OguzhanUmutlu)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/OguzhanUmutlu)
 
-<!-- old :p
-**You know when you're in love, you can't fall asleep...**
+### Tools and Apps
 
-<i>Because reality is finally better than dreams...</i>
--->
+[![Intellij](https://img.shields.io/badge/intellij%20idea-black?style=for-the-badge&logo=intellij%20idea)](https://github.com/OguzhanUmutlu)
+[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/OguzhanUmutlu)
+[![Godot](https://img.shields.io/badge/godot-black?style=for-the-badge&logo=godotengine)](https://github.com/OguzhanUmutlu)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/OguzhanUmutlu)
+[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/OguzhanUmutlu)
+
+<details>
+<p align="center">
+  <a href="https://github.com/OguzhanUmutlu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OguzhanUmutlu&theme=transparent" />
+  </a>
+  <a href="https://github.com/OguzhanUmutlu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OguzhanUmutlu&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/OguzhanUmutlu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OguzhanUmutlu&theme=transparent" />
+  </a>
+  <a href="https://github.com/OguzhanUmutlu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OguzhanUmutlu&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/OguzhanUmutlu">
+    <img src="https://komarev.com/ghpvc/?username=OguzhanUmutlu&color=blue&style=for-the-badge)" />
+  </a>
+</p>
