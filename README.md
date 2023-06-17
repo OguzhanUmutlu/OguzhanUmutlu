@@ -63,7 +63,7 @@
   </a>
   <a href="https://github.com/OguzhanUmutlu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OguzhanUmutlu&theme=transparent" />
-  </a>
+  </a><br>
   <a href="https://github.com/OguzhanUmutlu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OguzhanUmutlu&langs_count=10&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html" />
   </a>
