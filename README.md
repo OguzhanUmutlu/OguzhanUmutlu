@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://raw.githubusercontent.com/OguzhanUmutlu/OguzhanUmutlu/main/imgs/hand.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi people!</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
