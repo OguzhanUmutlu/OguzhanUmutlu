@@ -3,7 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Oğuzhan. I'm currently studying Mechanical Engineering at Marmara University.<br>
+        I'm Oğuzhan.<br>
+        I'm currently studying Mechanical Engineering at Marmara University.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://leetcode.com/OguzhanUmutlu">
