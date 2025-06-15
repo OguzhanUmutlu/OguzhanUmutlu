@@ -1,65 +1,11 @@
-<h1 align="center">Hi people!</h1>
+<h1 align="center">Hi 👋, I'm Oğuzhan!</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Oğuzhan.<br>
-        I'm currently studying Mechanical Engineering at Marmara University.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Self-taught+Fullstack+Developer;8+years+of+programming+experience;Student+at+Marmara+University;Low-level+enthusiast;An+AI+practitioner&center=true&width=500&height=50" alt="Typing SVG"><br>
     <!--I mean I don't even use it so, might as well remove it. <a href="https://leetcode.com/OguzhanUmutlu">
         <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
     </a>-->
 </p>
-
-### Languages
-
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/OguzhanUmutlu)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/OguzhanUmutlu)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/OguzhanUmutlu)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/OguzhanUmutlu)
-[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/OguzhanUmutlu)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/OguzhanUmutlu)
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=Rust)](https://github.com/OguzhanUmutlu)
-[![Go](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=Go)](https://github.com/OguzhanUmutlu)
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/OguzhanUmutlu)
-[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/OguzhanUmutlu)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/OguzhanUmutlu)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/OguzhanUmutlu)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/OguzhanUmutlu)
-
-### Technologies & Frameworks
-
-[![PyTorch](https://img.shields.io/badge/torch-black?style=for-the-badge&logo=pytorch)](https://github.com/OguzhanUmutlu)
-[![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/OguzhanUmutlu)
-[![numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/OguzhanUmutlu)
-[![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)](https://github.com/OguzhanUmutlu)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/OguzhanUmutlu)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/OguzhanUmutlu)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/OguzhanUmutlu)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/OguzhanUmutlu)
-[![p5.js](https://img.shields.io/badge/p5.js-black?style=for-the-badge&logo=p5.js)](https://github.com/OguzhanUmutlu)
-[![matter.js](https://img.shields.io/badge/matter.js-black?style=for-the-badge&logo=matter.js)](https://github.com/OguzhanUmutlu)
-[![SDL](https://img.shields.io/badge/sdl-black?style=for-the-badge&logo=sdl)](https://github.com/OguzhanUmutlu)
-[![OpenGL](https://img.shields.io/badge/opengl-black?style=for-the-badge&logo=opengl)](https://github.com/OguzhanUmutlu)
-
-### OS
-
-[![CentOS](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=Centos)](https://github.com/OguzhanUmutlu)
-[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)](https://github.com/OguzhanUmutlu)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/OguzhanUmutlu)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)](https://github.com/OguzhanUmutlu)
-
-### Tools and Apps
-
-[![CLion](https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion)](https://github.com/OguzhanUmutlu)
-[![WebStorm](https://img.shields.io/badge/webstorm-black?style=for-the-badge&logo=webstorm)](https://github.com/OguzhanUmutlu)
-[![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)](https://github.com/OguzhanUmutlu)
-[![Intellij](https://img.shields.io/badge/intellij%20idea-black?style=for-the-badge&logo=intellij%20idea)](https://github.com/OguzhanUmutlu)
-[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/OguzhanUmutlu)
-[![Godot](https://img.shields.io/badge/godot-black?style=for-the-badge&logo=godotengine)](https://github.com/OguzhanUmutlu)
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/OguzhanUmutlu)
-[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/OguzhanUmutlu)
 
 <details>
 <p align="center">
