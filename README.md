@@ -13,22 +13,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/oguzhanumutlu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/oguzhanumutlu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 </p>
 
 <details align="center">
   <p align="center">
     <a href="https://github.com/OguzhanUmutlu">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OguzhanUmutlu&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OguzhanUmutlu&theme=transparent"/>
     </a>
     <a href="https://github.com/OguzhanUmutlu">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OguzhanUmutlu&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OguzhanUmutlu&theme=transparent"/>
     </a>
   </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/OguzhanUmutlu">
-    <img src="https://komarev.com/ghpvc/?username=OguzhanUmutlu&color=blue&style=for-the-badge)" />
+    <img src="https://komarev.com/ghpvc/?username=OguzhanUmutlu&color=blue&style=for-the-badge)"/>
   </a>
 </p>
